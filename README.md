@@ -33,7 +33,7 @@ Web Hosters i suggest on to where to use this template
 //**
 
 For any changes you want to make to the website or how to change it, look in the files and edit them, there
-are written "<!-- these things, they are used as reminder! -->"
+are written "!-- these things, they are used as reminder! --"
 
 //**
 
