@@ -37,5 +37,11 @@ are written "!-- these things, they are used as reminder! --"
 
 //**
 
+//***
+
+btw when you upload it, delete the README.md file, its not important then.
+
+//***
+
 
 hope its good enough for start :D Thanks you for using mine template!
